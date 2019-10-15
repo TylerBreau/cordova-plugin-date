@@ -14,7 +14,7 @@
    limitations under the License.
 */
 
-package com.totalpave.tpdate;
+package com.totalpave.date;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
